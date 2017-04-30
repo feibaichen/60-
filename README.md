@@ -1,4 +1,4 @@
-# 60-
+# Require_Api_from_Host_by_PHP
 说明：
 2个文件放在服务器端，在iOS端发送数据请求（对index_testfeijson.php发送请求），即可返回指定数据json格式
 可以根据需求自己定制更完善的返回json模式，例如在iOS端提交数据到服务器，服务拼接数据，再返回给iOS端解析显示在应用中
